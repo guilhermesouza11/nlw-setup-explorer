@@ -104,6 +104,10 @@ input {
   transition: 0.2s;
 }
 
+input:hover{
+  background-color: #7261a5b0;
+}
+
 /* pseudo-selector */
 input:checked {
   background: #8b5cf6;
