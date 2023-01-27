@@ -4,6 +4,11 @@
 
 Este é um projeto desenvolvido na semana do NLW Setup, junto com a galera da Rocketseat, a trilha que eu escolhi, foi a Explorer, justamente pra aprender o básico sobre o Javascript.
 
+O projeto consiste em organizar a rotina, o que deve ser feito e o que foi feito naquele dia.
+
+<p align="center">
+    <img alt="projeto Habits" src="./assets/nlw-habits-project.png">
+</p>
 
 
 ## Status: ✅
